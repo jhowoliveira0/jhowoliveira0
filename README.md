@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/rzeWnbH8Uc5Y4" width="480" height="456" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-pixel-rzeWnbH8Uc5Y4">via GIPHY</a></p>
+![ezgif com-crop](https://github.com/EuKennedy/EuKennedy/assets/115658996/a44a9a53-117f-46aa-a3c1-0bda48228a06)
 
 <h1 align="center" color="blue"> Hi 👋! I'm Jhonatan. </h1>
 <h2 align="center" color="blue">Video Editor and Professional Designer looking to specialize in software engineer</h2>
