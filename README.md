@@ -2,7 +2,7 @@
 <h1 align="center" color="blue"> Hi 👋! I'm Jhonatan. </h1>
 <h2 align="center" color="blue">Video Editor and Professional Designer looking to specialize in software engineer</h2>
 
-<p align="center">I'm currently studying front-end development and looking to specialize in the area.</p>&nbsp;
+<p align="center">Currently, I work with Web Design, Graphic Design, and Video Editing, and I am pursuing a degree in Software Engineering to professionalize myself in the field. I take courses on DIO.me for further improvement. I have knowledge in Git, JavaScript, CSS, and HTML at the moment. Committed to continually refining my skills.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
