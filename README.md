@@ -1,8 +1,10 @@
 
 <h1 align="center" color="blue"> Hi 👋! I'm Jhonatan. </h1>
-<h2 align="center" color="blue">Video Editor and Professional Designer looking to specialize in software engineer</h2>
+<h2 align="center" color="blue">Software Engineering Student</h2>
 
-<p align="center">Currently, I work with Web Design, Graphic Design, and Video Editing, and I am pursuing a degree in Software Engineering to professionalize myself in the field. I take courses on DIO.me for further improvement. I have knowledge in Git, JavaScript, CSS, and HTML at the moment. Committed to continually refining my skills.</p>&nbsp;
+<p align="center">I currently work with Web Design, Graphic Design, and Video Editing, and I am pursuing a degree in Software Engineering to professionalize in the field. I take courses on DIO.me to enhance my skills. I have knowledge in PHP (working with WordPress sites), Git, JavaScript, CSS, and HTML. I am committed to constantly improving my knowledge.
+
+DIO profile: https://www.dio.me/users/jhonatanro_01</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
@@ -20,9 +22,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Styled-Components](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
-![Saas](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 #### Secondary Stack:
