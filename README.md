@@ -21,8 +21,10 @@ DIO profile: https://www.dio.me/users/jhonatanro_01</p>&nbsp;
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-533b78?style=for-the-badge&logo=Bootstrap&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-4D598E?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-e83a2d?style=for-the-badge&logo=Laravel&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 #### Secondary Stack:
